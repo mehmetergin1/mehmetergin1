@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mehmetergin1/mehmetergin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ Mehmet Erdem Ergin ✨
 
-Here are some ideas to get you started:
+**Computer Engineering Student | AI Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🕹️ // SELECT YOUR STACK //
+
+| Category | Skills |
+| :--- | :--- |
+| **AI / ML** | `Python` `OpenCV`  `scikit-learn` `OpenGL` |
+| **BACKEND** | `.NET Core MVC` `MSSQL` `REST API` `PostgreSQL` `MySQL` |
+| **DEVOPS** | `Docker` `Kubernetes` `Huawei Cloud` `Git` |
+| **OTHERS** | `Computer Graphics` `C` `Java` |
+
+---
+
+### 📩 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senin-profilin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:erdemergin120@gmail.com)
+
+
+</div>
