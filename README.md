@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Mehmet Erdem Ergin ✨
+# Hi, I'm Mehmet Erdem Ergin 👋
 
 **Computer Engineering Student | AI Enthusiast**
 
