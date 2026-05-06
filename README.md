@@ -18,8 +18,14 @@
 ---
 
 ### 📩 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senin-profilin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:erdemergin120@gmail.com)
+<a href="https://linkedin.com/in/mehmet-erdem-ergin-35141430a/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-circle&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:erdemergin120@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=flat-circle&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://medium.com/@mehmeterdemergin" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?style=flat-circle&logo=medium&logoColor=white"/></a>
+&nbsp;
 
 
 </div>
+
+<br/>
